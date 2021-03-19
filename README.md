@@ -1,10 +1,7 @@
-# visual_question_answering
-Given an image from a synthetic dataset and a question, the goal is to provide the correct answer belonging to 3 possible categories: 'yes/no', 'counting' (from 0 to 5) and 'other' (e.g. colors, location, ecc.) answers.
+# Image Segmentation
 
-# Visual Question Asnwering
-
-Implementation for a Kaggle challenge organized by the Artificial Neural Networks and Deep Learning course at Politecnico di Milano.
-Given an image from a synthetic dataset and a question, the goal is to provide the correct answer belonging to 3 possible categories: 'yes/no', 'counting' (from 0 to 5) and 'other' (e.g. colors, location, ecc.) answers.
+ACRE is the Agri-food Competition for Robot Evaluation, part of the METRICS project funded by the European Union’s Horizon 2020 research and innovation program under grant agreement No 871252. Autonomous robots compete to demonstrate their ability to perform agricultural tasks (such as removing weeds or surveying crops down to individual-plant resolution). At field campaigns, participants collect data that are then made available for online competitions (Cascade Campaigns) like the one you are seeing.
+Implementation for a CodaLab challenge organized by ACRE. In this competition, ACRE organizers asked us to segment RGB images to distinguish between crop, weeds, and background.
 
 
 ## Authors
